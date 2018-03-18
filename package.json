@@ -1,0 +1,14 @@
+{
+  "name": "Webscrapper for toxic plant list",
+  "version": "1.0.0",
+  "description": "Webscrapping project",
+  "main": "server.js",
+  "author": "Self",
+  "license": "yes",
+  "private": null,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "^0.0.1-security",
+    "request": "^2.85.0"
+  }
+}
